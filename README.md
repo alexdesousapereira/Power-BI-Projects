@@ -8,7 +8,7 @@ Esse repositório contém  **Dashboards** feitos no Microsolft Power BI. Os resp
 
 ## Dashboard de Vendas
 ***
-[![Vendas](https://imgur.com/I2gE5uz)](https://app.powerbi.com/view?r=eyJrIjoiNGY2ODNmZmItYWQ4Ni00MmM5LWI3OTEtNTU4N2U4N2YwNDIyIiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9)
+[![Vendas](https://i.imgur.com/I2gE5uz.png)](https://app.powerbi.com/view?r=eyJrIjoiNGY2ODNmZmItYWQ4Ni00MmM5LWI3OTEtNTU4N2U4N2YwNDIyIiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9)
 
 ## Dashboard E-commerce
 ***
@@ -16,7 +16,7 @@ Esse repositório contém  **Dashboards** feitos no Microsolft Power BI. Os resp
 
 ## Dashboard Banco de Dados Postgresql
 ***
-[![Banco de Dados Postgresql](https://imgur.com/3tYk3Xt)](https://app.powerbi.com/view?r=eyJrIjoiNGMxNmIwY2UtODk5Mi00MGU1LTk4NDctMjZkNjU0Y2M2YjA5IiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9&pageName=ReportSection)
+[![Banco de Dados Postgresql](https://i.imgur.com/3tYk3Xt.png)](https://app.powerbi.com/view?r=eyJrIjoiNGMxNmIwY2UtODk5Mi00MGU1LTk4NDctMjZkNjU0Y2M2YjA5IiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9&pageName=ReportSection)
 
 # Direitos de Uso
 ***
