@@ -25,7 +25,7 @@ Esse repositório contém  **Dashboards** feitos no Microsolft Power BI. Os resp
 
 ## Dashboard de Vendas
 ***
-[![Vendas](https://i.imgur.com/I2gE5uz.png)](https://app.powerbi.com/view?r=eyJrIjoiNGY2ODNmZmItYWQ4Ni00MmM5LWI3OTEtNTU4N2U4N2YwNDIyIiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9)
+[![Vendas](tps://i.imgur.com/aRLDnUX.png)](https://app.powerbi.com/view?r=eyJrIjoiNGY2ODNmZmItYWQ4Ni00MmM5LWI3OTEtNTU4N2U4N2YwNDIyIiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9)
 
 ## Dashboard E-commerce
 ***
