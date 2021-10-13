@@ -4,7 +4,7 @@ Esse repositório contém  **Dashboards** feitos no Microsolft Power BI. Os resp
 
 ## Dashboard de Logística
 ***
-[![Logistica](https://i.imgur.com/yYHhq21.png)](https://github.com/alexdesousapereira/Dashboard-de-Projetos)
+[![Logistica](https://i.imgur.com/yYHhq21.png)](https://github.com/alexdesousapereira/Dashboard-Logistica)
 
 ## Dashboard de Projetos
 ***
