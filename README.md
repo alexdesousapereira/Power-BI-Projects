@@ -1,6 +1,6 @@
 # Power BI Projects
 ***
-Esse repositório contém  **Dashboards** feitos no Microsolft Power BI. Os respectivos Dashboards, podem ser acessados clicando nas respectivas imagens de cada projeto.
+Esse repositório contém  **Dashboards** feitos no software Microsolft Power BI. Os respectivos Dashboards, podem ser acessados clicando nas respectivas imagens de cada projeto.
 
 ## Dashboard de Logística
 ***
